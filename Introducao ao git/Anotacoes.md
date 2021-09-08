@@ -1,6 +1,6 @@
 # Comandos básicos em git
 
-Esse documento tratasse de uma anotação, sobre os comandos básicos do git, para um maior entendimento sobre o assunto acesse o link a seguir que contem o conteúdo usado nesse documento.[Curso de GIT gratuito] (https://www.youtube.com/watch?v=OuOb1_qADBQ&t=6534s).
+Esse documento tratasse de uma anotação, sobre os comandos básicos do git, para um maior entendimento sobre o assunto acesse o link a seguir que contem o conteúdo usado nesse documento.[Curso de GIT gratuito](https://www.youtube.com/watch?v=OuOb1_qADBQ&t=6534s)
 
 ### Configurações do git
 
