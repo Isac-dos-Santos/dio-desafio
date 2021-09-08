@@ -1,2 +1,2 @@
 # dio-desafio
-Desafio de projeto sobre git/github 
+Primeiro desafio do Bootcamp everis New Talents #2 Java.
